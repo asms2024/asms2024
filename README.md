@@ -1,52 +1,47 @@
-# مرحباً، أنا أحمد - مطور تطبيقات ومواقع 💻👋
+<div align="center" width="50">
 
-## مطور تطبيقات جوال بلغة Flutter ومطور صفحات ويب! 📱🌐
-
-### أنا أعمل على:
-
-- 🔭 **أبرز المشاريع:** يمكنك تصفح آخر أعمالي ومشاريعي على GitHub.
-- 🌱 **حالياً أتعمق في:** تعميق معرفتي في **Dart** (لغة Flutter) وأفضل الممارسات في تطوير **Backend**.
-- 👯 **فرص التعاون:** أنا مستعد للتعاون في مشاريع تطبيقات الجوال والويب الجديدة والمثيرة.
-- 🥅 **أهدافي لعام 2025:** إطلاق المزيد من التطبيقات والمشاريع المكتملة.
-- ⚡ **معلومة سريعة:** أحب القراءة وألعاب الفيديو.
-
----
-
-### تواصل معي:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([رابط حسابك على LinkedIn])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)]([رابط حسابك على X/Twitter])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[بريدك الإلكتروني])
-
----
-
-### اللغات والأدوات:
-
-[<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-
-<br />
-<br />
-
----
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <details>
-  <summary>:zap: نشاطي الأخير على GitHub</summary>
-  
-*لاستخدام هذا القسم، يجب عليك إعداد GitHub Action مثل [GitHub Readme Activity Graph](https://github.com/ashish-bhasin27/github-readme-activity-graph) أو [Lowlighter's GitHub Stats](https://github.com/lowlighter/metrics) لملء البيانات هنا تلقائياً.*
-</details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-<details>
-  <summary>:zap: إحصائيات GitHub</summary>
-
-  <img align="left" alt="إحصائيات GitHub لأحمد" src="https://github-readme-stats.vercel.app/api?username=[اسم_المستخدم_الخاص_بك]&show_icons=true&hide_border=false&title_color=39d353&icon_color=39d353&bg_color=0D1117&text_color=ffffff&border_color=0c1a25" />
-
-*لا تنس استبدال `[اسم_المستخدم_الخاص_بك]` باسم مستخدم GitHub الخاص بك في رابط الصورة أعلاه لتعرض إحصائياتك الفعلية.*
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([YOUR SPOTIFY LINK HERE])
 
 </details>
+
+[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=social&label=Follow&maxAge=2592000)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![Twitter Follow](https://img.shields.io/twitter/follow/[YOUR_TWITTER_HANDLE]?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=[YOUR_TWITTER_HANDLE])
+[![Telegram badge](https://img.shields.io/badge/Connect-Telegram-grey?style=flat&logo=telegram)]([YOUR TELEGRAM LINK HERE]) <br>
+</div>
+
+---
+
+### 💻 Tech Stack & Tools
+
+As a **Flutter** and **Web Developer**, here are the technologies I primarily use:
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+```dart
+// Technologies I Use (Organized)
+
+class Ahmad extends Developer { 
+  const myTechStack = {  
+    "MobileDevelopment" : { "Flutter", "Dart" },
+    "WebDevelopment" : { "HTML", "CSS", "Javascript" },
+    "Backend/Database" : { "Firebase", "SQLite" /* Add your preferred backend/DB */ },
+    "Tools" : { "VS Code", "Git", "Figma", "Linux" }
+  };
+}
