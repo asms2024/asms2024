@@ -6,8 +6,7 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/asms2024?style=social&label=Follow&maxAge=2592000)](https://github.com/asms2024)
-[![Twitter Follow](https://img.shields.io/twitter/follow/[YOUR_TWITTER_HANDLE]?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=[YOUR_TWITTER_HANDLE])
-[![Telegram badge](https://img.shields.io/badge/Connect-Telegram-grey?style=flat&logo=telegram)]([YOUR TELEGRAM LINK HERE]) <br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/[YOUR_TWITTER_HANDLE]?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=[YOUR_TWITTER_HANDLE])<br>
 </div>
 
 ---
