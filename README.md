@@ -10,7 +10,7 @@
 
 </details>
 
-[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=social&label=Follow&maxAge=2592000)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![GitHub followers](https://img.shields.io/github/followers/[asms2024]?style=social&label=Follow&maxAge=2592000)](https://github.com/[YOUR_GITHUB_USERNAME])
 [![Twitter Follow](https://img.shields.io/twitter/follow/[YOUR_TWITTER_HANDLE]?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=[YOUR_TWITTER_HANDLE])
 [![Telegram badge](https://img.shields.io/badge/Connect-Telegram-grey?style=flat&logo=telegram)]([YOUR TELEGRAM LINK HERE]) <br>
 </div>
